@@ -1,3 +1,5 @@
+![](https://github.com/elsonjose/elsonjose/blob/master/github.gif)
+
 ### Hi there 👋
 
 <!--
